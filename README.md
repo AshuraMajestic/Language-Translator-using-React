@@ -32,3 +32,8 @@ http://localhost:3000/
 ```
 
 This will open the application, allowing you to start translating text from English to Hindi.
+
+
+---
+
+I was not able to use google translate as it costs money per Hour.
